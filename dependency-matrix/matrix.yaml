@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: jatikuma29iv
+  repo: helo-react
+  url: https://github.com/jatikuma29iv/helo-react.git
+  version: ""
+  versionURL: ""
