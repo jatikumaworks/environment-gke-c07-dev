@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: jatikuma29iv
+    provider: github
+    repository: helo-react
+  name: jatikuma29iv-helo-react
+spec:
+  description: Imported application for jatikuma29iv/helo-react
+  httpCloneURL: https://github.com/jatikuma29iv/helo-react.git
+  org: jatikuma29iv
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: helo-react
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/jatikuma29iv/helo-react.git
