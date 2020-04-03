@@ -1,0 +1,10 @@
+adminUser:
+  password: local:gke-c07/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: craft.de.jet@gmail.com
+  token: local:gke-c07/pipelineUser:token
+  username: jatikuma29iv
+prow:
+  hmacToken: local:gke-c07/prow:hmacToken
